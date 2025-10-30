@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Hotel>
+<Hotels>
     <Hotel Rating="4.2">
         <Name>
             Westin
@@ -287,5 +287,6 @@
             </Zip>
         </Address>
     </Hotel>
-</Hotel>
+</Hotels>
+
 
