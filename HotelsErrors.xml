@@ -154,6 +154,7 @@
             <Zip>
                 85008
             </Zip>
+        </Address>
     </Hotel>
     <Hotel>
         <Name>
@@ -286,4 +287,5 @@
             </Zip>
         </Address>
     </Hotel>
+
 </Hotels>
