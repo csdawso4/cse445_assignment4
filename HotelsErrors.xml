@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Hotel>
+    <Hotel Rating="4.2">
+        <Name>
+            Westin
+        </Name>
+        <Phone>
+            480-968-8885
+        </Phone>
+        <Phone>
+            800-937-8461
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                11
+            </Number>
+            <Street>
+                E. 7th St
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85281
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>
+            Hampton Inn &amp; Suites Tempe/Phoenix Airport
+        </Name>
+        <Phone>
+            480-410-6400
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                1550
+            </Number>
+            <Street>
+                S. 52nd Street
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85281
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>
+            Hampton Inn &amp; Suites Phoenix Chandler-Fashion Center AZ
+        </Name>
+        <Phone>
+            480-917-9500
+        </Phone>
+        <Address>
+            <Number>
+                1231
+            </Number>
+            <Street>
+                South Spectrum Boulevard
+            </Street>
+            <City>
+                Chandler
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85286
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.3">
+        <Name>
+            Hilton Garden Inn Phoenix Tempe, University Research Park
+        </Name>
+        <Phone>
+            480-897-5100
+        </Phone>
+        <Phone>
+            877-782-9444
+        </Phone>
+        <Address NearestAirport="Chandler Municipal">
+            <Number>
+                7290
+            </Number>
+            <Street>
+                Price Road
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85283
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.5">
+        <Name>
+            Quality Inn &amp; Suites near Downtown Mesa
+        </Name>
+        <Address NearestAirport="Falcon Field">
+            <Number>
+                1750
+            </Number>
+            <Street>
+                E. Main Street
+            </Street>
+            <City>
+                Mesa
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85203
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.7">
+        <Name>
+            Home2 Suites by Hilton Phoenix Airport North
+        </Name>
+        <Phone>
+            602-914-3333
+        </Phone>
+        <Phone>
+            877-646-6302
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                888
+            </Number>
+            <Street>
+                North 44th Street
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85008
+            </Zip>
+    </Hotel>
+    <Hotel>
+        <Name>
+            Comfort Inn &amp; Suites Tempe Phoenix Sky Harbor Airport
+        </Name>
+        <Phone>
+            480-858-9898
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                808
+            </Number>
+            <Street>
+                N Scottsdale Road
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85281
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.0">
+        <Name>
+            DoubleTree by Hilton Hotel Phoenix Tempe
+        </Name>
+        <Name>
+            Fake 2nd Name
+        </Name>
+        <Phone>
+            480-967-1441
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                2100
+            </Number>
+            <Street>
+                South Priest Drive
+            </Street>
+            <City>
+                Tempe
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85282
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.7">
+        <Name>
+            Homewood Suites by Hilton Phoenix Chandler Fashion Center
+        </Name>
+        <Phone>
+            480-963-5700
+        </Phone>
+        <Address NearestAirport="Chandler Municipal">
+            <Number>
+                1221
+            </Number>
+            <Street>
+                S. Spectrum Blvd.
+            </Street>
+            <City>
+                Chandler
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85286
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.1">
+        <Name>
+            Hilton Garden Inn Phoenix Airport North
+        </Name>
+        <Phone>
+            602-306-2323
+        </Phone>
+        <Phone>
+            877-782-9444
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                3838
+            </Number>
+            <Street>
+                East Van Buren Street
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85008
+            </Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.9">
+        <Name>
+            Country Inn &amp; Suites by Radisson, Phoenix Airport, AZ
+        </Name>
+        <Phone>
+            480-306-4343
+        </Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>
+                4702
+            </Number>
+            <Street>
+                E University Dr
+            </Street>
+            <City>
+                Phoenix
+            </City>
+            <State>
+                AZ
+            </State>
+            <Zip>
+                85034
+            </Zip>
+        </Address>
+    </Hotel>
+</Hotel>
